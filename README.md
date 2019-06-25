@@ -1,6 +1,6 @@
 # web-scripts-template
 
-Template repository to create a shiny new web-scripts library
+Template repository to create a shiny new [web-scripts](https://github.com/spotify/web-scripts) library
 
 ## DO THESE ONCE YOU HAVE CREATED YOUR REPO
 
