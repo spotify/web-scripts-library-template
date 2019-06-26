@@ -4,5 +4,5 @@ Template repository to create a shiny new [web-scripts](https://github.com/spoti
 
 ## DO THESE ONCE YOU HAVE CREATED YOUR REPO
 
-- [ ] update or add `author`, `name`, `description`, and `repository` in your `package.json`.
-- [ ] remove `private: true` if you plan to publish the library publicly
+- [ ] replace every `@@CHANGE THIS@@` in package.json
+- [ ] remove `private: true` if you plan to publish the library to NPM
