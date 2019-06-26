@@ -1,5 +1,8 @@
 {
-  "name": "web-scripts-template",
+  "name": "@@CHANGE THIS@@",
+  "description": "@@CHANGE THIS@@",
+  "author": "@@CHANGE THIS@@",
+  "repository": "@@CHANGE THIS@@",
   "version": "1.0.0",
   "private": true,
   "main": "cjs/index.js",
