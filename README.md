@@ -13,3 +13,4 @@ Once you have your project, run `yarn` to install the dependencies. Try out scri
 - [ ] replace every `@@CHANGE THIS@@` in package.json
 - [ ] remove `private: true` if you plan to publish the library to NPM
 - [ ] use `yarn commit` when committing to this repo (uses commitizen)
+- [ ] set a `license` in your package.json and create a `LICENSE` file
