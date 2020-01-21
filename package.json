@@ -14,7 +14,7 @@
     "build": "web-scripts build",
     "commit": "web-scripts commit",
     "release": "web-scripts release",
-    "postinstall": "web-scripts postinstall --threshold low"
+    "prepare": "web-scripts audit --threshold low"
   },
   "husky": {
     "hooks": {
@@ -23,7 +23,7 @@
     }
   },
   "devDependencies": {
-    "@spotify/web-scripts": "^5.0.0",
+    "@spotify/web-scripts": "^5.1.0",
     "husky": "^4.0.0"
   }
 }
