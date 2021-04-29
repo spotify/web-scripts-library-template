@@ -1,0 +1,23 @@
+version: 2
+updates:
+- package-ecosystem: npm
+  directory: "/"
+  schedule:
+    interval: daily
+    time: "04:00"
+  open-pull-requests-limit: 10
+  ignore:
+  - dependency-name: "@spotify/web-scripts"
+    versions:
+    - 10.0.0
+    - 9.0.0
+    - 9.0.1
+    - 9.0.2
+  - dependency-name: husky
+    versions:
+    - 5.0.9
+    - 5.1.0
+    - 5.1.1
+    - 5.1.2
+    - 5.1.3
+    - 5.2.0
